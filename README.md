@@ -39,15 +39,19 @@ The ATM Management System Project in Java is a beginner-friendly desktop applica
 
 ## Learning Objectives
 
+![Project Logo](images/OOPS.png)
+
 This project serves as an excellent resource for beginners to:
 
 - Understand and implement OOP principles in Java.
 - Gain hands-on experience with Swing and AWT for desktop application development.
 - Reinforce Java fundamentals through practical application.
 
+
+
 ## Contact
 
-For any inquiries or feedback, feel free to contact us at [your.email@example.com](mailto:akashkumar355231@gmail.com).
+For any inquiries or feedback, feel free to contact us at [akashkumar355231@gmail.com](mailto:akashkumar355231@gmail.com).
 
 <!-- Add any additional sections if necessary -->
 
